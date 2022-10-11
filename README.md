@@ -13,9 +13,16 @@
 
 ## DATASET
 
-- [Lip Reading in the Wild - LRW](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html) [[paperswithcode]](https://paperswithcode.com/dataset/lrw)
+- [LRW - Lip Reading in the Wild](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html) [[paperswithcode]](https://paperswithcode.com/dataset/lrw)
+
+- [VOCA - Voice Operated Character Animation](https://voca.is.tue.mpg.de/)
+
+- [GLIPS - German Lipreading](https://www.fdr.uni-hamburg.de/record/10048#.Y0WPDOzMJmo)
+
+- [AnimeCeleb](https://arxiv.org/pdf/2111.07640.pdf) [[CODE]](https://github.com/kangyeolk/AnimeCeleb)
 
 - [Talking Face Generation](https://paperswithcode.com/task/talking-face-generation)
+
 
 
 
