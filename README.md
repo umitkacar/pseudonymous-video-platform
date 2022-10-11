@@ -9,3 +9,9 @@
 
 - [DeepFake - Face Swapping](https://github.com/deepfakes/faceswap) [[CODE]](https://github.com/deepfakes/faceswap)
 
+## DATASET
+
+- [Lip Reading in the Wild - LRW](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html) [[paperswithcode]](https://paperswithcode.com/dataset/lrw)
+
+
+
