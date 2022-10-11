@@ -9,9 +9,14 @@
 
 - [DeepFake - Face Swapping](https://github.com/deepfakes/faceswap) [[CODE]](https://github.com/deepfakes/faceswap)
 
+- [LIPGAN - Towards Automatic Face-to-Face Translation](https://arxiv.org/pdf/2003.00418v1.pdf) [[CODE]](https://github.com/Rudrabha/LipGAN)
+
 ## DATASET
 
 - [Lip Reading in the Wild - LRW](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html) [[paperswithcode]](https://paperswithcode.com/dataset/lrw)
+
+- [Talking Face Generation](https://paperswithcode.com/task/talking-face-generation)
+
 
 
 
