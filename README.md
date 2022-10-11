@@ -7,5 +7,5 @@
 
 - [DeepFaceLab: Integrated, flexible and extensible face-swapping framework](https://arxiv.org/pdf/2005.05535.pdf) [[CODE]](https://github.com/iperov/DeepFaceLab)
 
-- [DeepFake - Face Swapping](https://github.com/deepfakes/faceswap)
+- [DeepFake - Face Swapping](https://github.com/deepfakes/faceswap) [[CODE]](https://github.com/deepfakes/faceswap)
 
